@@ -1,3 +1,5 @@
+# Released under MIT license - http://opensource.org/licenses/mit-license.php
+
 import pandas as pd
 import math
 
